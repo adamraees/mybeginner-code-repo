@@ -1,13 +1,5 @@
-# myfirst-repo
+# Beginner-code-repo
 
-
-This is my day at github.
-
-## subheader
-
-watching youtube to learn git.
-hgrguurgrg
-
-.
-
+I am a beginner learning python for data science from Youtube and blogs.
+I will add all my codes and findings here.
 
